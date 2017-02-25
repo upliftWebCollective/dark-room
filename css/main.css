@@ -137,8 +137,12 @@ header nav li:first-child{
 	margin: 0;
 }
 
-.nav_h1{
+.header_title{
+	font-family: 'Maven Pro', sans-serif;
+	font-size: 100px;
 	color:#fff;
+	
+
 }
 
 header nav li a{
