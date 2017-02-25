@@ -88,7 +88,7 @@ header{
 	height: 130px;
 	z-index: 99;
   /* CHANGE HEADER COLOR */
-	background-color:#33a7e4ff;
+	background-color:#000;
 }
 
 header .logo{
@@ -135,6 +135,10 @@ header nav li{
 
 header nav li:first-child{
 	margin: 0;
+}
+
+.nav_h1{
+	color:#fff;
 }
 
 header nav li a{
@@ -642,7 +646,7 @@ footer{
 	padding: 50px 0;
 	text-align: center;
   /*CHANGE FOOTER BACKGROUND COLOR*/
-  background-color: #eaeaea;
+  background-color: #000;
 }
 
 footer .app_platform li{
